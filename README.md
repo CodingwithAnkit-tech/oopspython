@@ -29,7 +29,6 @@ Creating objects
 🔹 3. Inheritance
 
 Single inheritance
-
 Multiple inheritance
 
 - Multilevel inheritance
