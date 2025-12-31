@@ -45,7 +45,7 @@ Method overriding
 
 Public, protected, private variables
 
-Getter & setter methods
+- Getter & setter methods
 
 🔹 6. Abstraction
 
