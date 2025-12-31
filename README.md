@@ -32,7 +32,7 @@ Multiple inheritance
 
 - Multilevel inheritance
 
-Method overriding
+- Method overriding
 
 
 🔹 4. Polymorphism
