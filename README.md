@@ -24,7 +24,7 @@ Creating objects
 
 - Default & parameterized constructors
 
-Initializing object data
+- Initializing object data
 
 🔹 3. Inheritance
 
