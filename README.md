@@ -49,7 +49,7 @@ Getter & setter methods
 
 🔹 6. Abstraction
 
-Abstract classes using abc module
+- Abstract classes using abc module
 
 Abstract methods
 
