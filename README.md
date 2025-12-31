@@ -40,8 +40,7 @@ Multiple inheritance
 - Method overloading (conceptual)
 
 Method overriding
-
-Polymorphism with functions & classes
+- Polymorphism with functions & classes
 
 🔹 5. Encapsulation
 
