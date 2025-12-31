@@ -23,7 +23,7 @@ Creating objects
 
 🔹 2. Constructors (__init__)
 
-Default & parameterized constructors
+- Default & parameterized constructors
 
 Initializing object data
 
