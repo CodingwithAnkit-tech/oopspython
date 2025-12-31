@@ -37,7 +37,7 @@ Multiple inheritance
 
 🔹 4. Polymorphism
 
-Method overloading (conceptual)
+- Method overloading (conceptual)
 
 Method overriding
 
