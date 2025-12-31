@@ -50,7 +50,6 @@ Public, protected, private variables
 🔹 6. Abstraction
 
 - Abstract classes using abc module
-
 - Abstract methods
 
 🔹 7. OOP Project Examples
