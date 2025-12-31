@@ -55,5 +55,4 @@ Public, protected, private variables
 🔹 7. OOP Project Examples
 
 - Small OOP tasks
-
 - Mini projects and exercises
