@@ -17,7 +17,6 @@ I have added notes, examples, and programs for each OOP concept to understand Py
 🔹 1. Classes & Objects
 
 Creating classes
-
 Creating objects
 
 Instance variables & methods
