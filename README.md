@@ -44,7 +44,7 @@ Multiple inheritance
 
 🔹 5. Encapsulation
 
-Public, protected, private variables
+- Public, protected, private variables
 - Getter & setter methods
 
 🔹 6. Abstraction
