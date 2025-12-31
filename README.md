@@ -19,7 +19,7 @@ I have added notes, examples, and programs for each OOP concept to understand Py
 Creating classes
 Creating objects
 
-Instance variables & methods
+- Instance variables & methods
 
 🔹 2. Constructors (__init__)
 
