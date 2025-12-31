@@ -56,4 +56,4 @@ Public, protected, private variables
 
 Small OOP tasks
 
-Mini projects and exercises
+- Mini projects and exercises
