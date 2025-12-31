@@ -44,7 +44,6 @@ Method overriding
 🔹 5. Encapsulation
 
 Public, protected, private variables
-
 - Getter & setter methods
 
 🔹 6. Abstraction
