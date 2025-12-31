@@ -32,7 +32,7 @@ Single inheritance
 
 Multiple inheritance
 
-Multilevel inheritance
+- Multilevel inheritance
 
 Method overriding
 
