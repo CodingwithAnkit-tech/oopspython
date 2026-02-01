@@ -45,6 +45,3 @@ s2.student_info()
 
 
 
-# Hybrid inheritance-
-# It is the combination of two or more than type of inheritance
-# It is the phenemena of calling the parent class constructer inside the child class
