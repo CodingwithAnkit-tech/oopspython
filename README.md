@@ -11,7 +11,6 @@ I have added notes, examples, and programs for each OOP concept to understand Py
 ✔ Practice exercises
 ✔ Folder-wise organized code
 
-
 # 🧠 Topics Covered
 🔹 1. Classes & Objects
 - Creating classes
