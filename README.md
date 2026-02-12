@@ -7,7 +7,8 @@ I have added notes, examples, and programs for each OOP concept to understand Py
 
 ✔ Notes for each OOP topic
 ✔ Simple programs for beginners
-✔ Jupyter Notebook explanations
+✔ Jupyter Noteboo
+k explanations
 ✔ Practice exercises
 ✔ Folder-wise organized code
 
